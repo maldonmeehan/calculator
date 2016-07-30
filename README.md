@@ -1,6 +1,6 @@
 # Caculator Website | Intro to Programming
 
-#### A Business logic Exercise for Epicodus, May 24, 2016
+#### A Business logic Exercise for Epicodus, May 31, 2016
 
 #### By **Maldon Meehan and Joel Delight**
 
